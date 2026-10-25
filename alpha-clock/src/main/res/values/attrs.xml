@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="AlphaClockView">
+        <attr name="alpha_clock_color" format="color" />
+        <attr name="alpha_clock_show_second" format="boolean" />
+    </declare-styleable>
+</resources>
